@@ -5,15 +5,16 @@
   "layer_names": [
     "base",
     "Symbols",
-    "Nav"
+    "Nav",
+    "Hyper"
   ],
   "layers": [
     [
-       "&macro_hyper",             "&kp N1",         "&kp N2",   "&kp N3",             "&kp N4",   "&kp N5",            "&tog 1",     "&mo 3",    "&kp N6",    "&kp N7",    "&kp N8",    "&kp N9",        "&kp N0", "&kp MINUS",
+       "&macro_hyper_a",             "&kp N1",         "&kp N2",   "&kp N3",             "&kp N4",   "&kp N5",            "&tog 1",     "&mo 3",    "&kp N6",    "&kp N7",    "&kp N8",    "&kp N9",        "&kp N0", "&kp MINUS",
          "&kp TAB",              "&kp Q",          "&kp W",    "&kp F",              "&kp P",    "&kp B",             "&none",     "&none",     "&kp J",     "&kp L",     "&kp U",     "&kp Y", "&kp SEMICOLON",  "&kp BSLH",
-         "&kp ESC", "&hm LEFT_CONTROL A", "&hm LEFT_ALT R",  "&lt 2 S", "&hm LEFT_COMMAND T",    "&kp G",             "&none", "&kp LCTRL",  "&kp LALT",                            "&kp LGUI",     "&kp RCTRL",     "&none",    "&kp M", "&hm RIGHT_COMMAND N",   "&lt 1 E", "&hm RIGHT_ALT I", "&hm RIGHT_CONTROL O",   "&kp SQT",
+         "&kp ESC", "&hm LEFT_CONTROL A", "&hm LEFT_ALT R",  "&lt 2 S", "&hm LEFT_COMMAND T",    "&kp G",             "&none", "&kp LCTRL",  "&kp LALT",                            "&kp LGUI",     "&kp macro_hyper",     "&none",    "&kp M", "&hm RIGHT_COMMAND N",   "&lt 1 E", "&hm RIGHT_ALT I", "&hm RIGHT_CONTROL O",   "&kp SQT",
        "&kp LSHFT",              "&kp Z",          "&kp X",    "&kp C",              "&kp D",    "&kp V",             "&none",     "&none",  "&kp HOME",     "&none",     "&none", "&kp PG_UP",         "&none",     "&none",    "&kp K",               "&kp H", "&kp COMMA",         "&kp DOT",            "&kp FSLH", "&kp RSHFT",
-           "&mo 2",          "&kp GRAVE",       "&kp CAPS", "&kp LEFT",      "&kp BACKSPACE", "&kp BSPC",           "&kp DEL",   "&kp END", "&kp PG_DN", "&kp ENTER", "&kp SPACE",   "&kp TAB",      "&kp DOWN",  "&kp LBKT", "&kp RBKT",               "&mo 2"
+           "&mo 2",          "&kp GRAVE",       "&kp CAPS", "&kp LEFT",      "&kp BACKSPACE", "&kp BSPC",           "&kp DEL",   "&kp END", "&kp PG_DN", "&kp ENTER", "&kp SPACE",   "&lt 3 TAB",      "&kp DOWN",  "&kp LBKT", "&kp RBKT",               "&mo 2"
     ], [
           "&trans",               "&trans",                "&trans",          "&trans",            "&trans",        "&trans",            "&trans",     "&mo 3",    "&kp N6", "&kp KP_NUM", "&kp KP_EQUAL", "&kp KP_DIVIDE", "&kp KP_MULTIPLY",  "&kp MINUS",
          "&kp TAB",             "&kp PIPE",             "&kp GRAVE", "&kp EXCLAMATION", "&kp DOUBLE_QUOTES",    "&kp DOLLAR",             "&none",     "&none",     "&kp Y",  "&kp TILDE",    "&kp KP_N8",     "&kp KP_N9",    "&kp KP_MINUS",   "&kp BSLH",
